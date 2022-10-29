@@ -1,1 +1,1 @@
-web: gunicorn fugro.wsgi --log-file
+web: gunicorn fugro.wsgi
