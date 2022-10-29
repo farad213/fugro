@@ -1,1 +1,1 @@
-web: gunicorn fugro.wsgi.pycd..
+web: gunicorn fugro.wsgi.py
